@@ -40,5 +40,5 @@ This software is licensed under the MIT License. See the [LICENSE](LICENSE) file
 
 ## Author
 
-- Andru Jorj (GitHub: [andru-jorj](https://github.com/andru-jorj))
+- Andru Jorj (GitHub: [AndruJorj](https://github.com/AndruJorj))
 
